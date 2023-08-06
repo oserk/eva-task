@@ -1,5 +1,7 @@
 # eva-task
 
+## To select multiple columns in the table, you should use the shift key.
+
 ## Project setup
 ```
 npm install
