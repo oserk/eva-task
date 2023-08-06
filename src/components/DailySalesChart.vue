@@ -3,7 +3,6 @@
 </template>
 
 <script>
-/* eslint-disable */
 var Highcharts = require('highcharts');
 require('highcharts/modules/exporting')(Highcharts);
 
@@ -12,7 +11,6 @@ export default {
     chartData: {
       type: Object,
     },
-    chartOptions: {},
   },
   data() {
     return {
